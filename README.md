@@ -1,5 +1,4 @@
 - 👋 Oi, eu sou o Kauy Lyra!
 - 👀 Buscando aprimoramento como Desenvolvedor.
-- 🌱 Atualmente estou aprendendo sobre GIT, SCRUM, SOLID e DDD e cursando Analise em Desenvolvimento de Sistemas na Universidade Anhembi Morumbi.
-- 💞️ Atualmente Desenvolvedor .Net C# Júnior no Itaú
+- 🌱 Cursando o 2° Semestre de Análise em Desenvolvimento de Sistemas na Universidade Anhembi Morumbi.
 - 📫 Mais sobre mim também no LinkedIn -> https://www.linkedin.com/in/kauy-lyra-99a6a11a2/
