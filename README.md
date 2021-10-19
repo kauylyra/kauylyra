@@ -1,4 +1,5 @@
 - 👋 Oi, eu sou o Kauy Lyra!
 - 👀 Buscando aprimoramento como Desenvolvedor.
+- 💻 Atualmente Desenvolvedor Full Stack na empresa Federação Paulista de Futebol.
 - 🌱 Cursando o 2° Semestre de Análise em Desenvolvimento de Sistemas na Universidade Anhembi Morumbi.
 - 📫 Mais sobre mim também no LinkedIn -> https://www.linkedin.com/in/kauy-lyra-99a6a11a2/
